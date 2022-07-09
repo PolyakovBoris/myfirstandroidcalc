@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="lbFirst">Input first variable</string>
+    <string name="lbSecond">Input second variable</string>
+</resources>
